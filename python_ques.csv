@@ -1,0 +1,5 @@
+﻿Questions,Option 1,Option 2,Option 3,Option 4,Answers
+"In Python 3, the maximum value for an integer is 263 - 1:",FALSE,TRUE,-,-,FALSE
+What is the maximum possible length of an identifier?,31 characters,63 characters,79 characters,none of the mentioned,none of the mentioned
+Which of the following is invalid?,a = 1,__a = 1,__str__ = 1,none of the mentioned,none of the mentioned
+Which of the following is an invalid variable?,my_string_1,1st_string,foo,_,1st_string
